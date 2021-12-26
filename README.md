@@ -65,7 +65,6 @@ Práca so statickým modifikátorom.
 8. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 
 ## Open-Lab-11.00 (35 XP)
-Využitie dedičnosti.
 1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-11.00".
 2. Uploadnite ho na GitHub do príslušného repozitára.
 3. V projekte vytvorte dva nové súbory (typu class - prípona .cs) a nazvite ich "Book" a "Library".
